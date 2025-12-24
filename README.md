@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web Development & Machine Learning.
 - 💞️ I’m looking to collaborate on real world & usefull projects.
 - 📫 How to reach me: https://www.linkedin.com/in/its-me-aditya-singh
-- ⚡ Fun fact: The worldwide population of software developers is expected to reach 28.7 million by the end of 2024.
+<!-- ⚡ Fun fact: The worldwide population of software developers is expected to reach 28.7 million by the end of 2024.-->
 
 <!---
 itsme-Aditya/itsme-Aditya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
