@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=26&center=true&vCenter=true&width=600&duration=1800&pause=600&color=00F7FF&lines=Python+Programmer;C%2B%2B+Learner;DSA+Explorer;Future+Software+Engineer" />
 </p>
 
-## About Me
+<h2>About Me</h2> 
 
 - 🎓 Student passionate about programming
 - 💻 Currently learning Python, C++ & Data Structures
@@ -12,31 +12,31 @@
 - 🌱 Exploring problem-solving and coding fundamentals
 - 🎯 Goal: Become a skilled Software Engineer
 
-## Languages and Tools
+<h2>Languages and Tools</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,html,css,mysql,git,github,vscode" />
 </p>
 
-# GitHub Stats
+<h2>GitHub Stats</h2>
 
-## Top Languages
+<h3>Top Languages</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsme-aditya&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsme-aditya&hide=jupyter%20notebook&layout=compact&theme=tokyonight" />
 
-## Overall Stats
+<h3>Overall Stats</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=itsme-aditya&show_icons=true&theme=tokyonight" />
 
-## Streak Stats
+<h3>Streak Stats</h3>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=itsme-aditya&theme=tokyonight" />
 </p>
 
-## Connect with Me
+<h2>Connect with Me</h2>
 
 <p align="center">
   <a href="mailto:adityask5804@gmail.com">
@@ -47,7 +47,7 @@
   </a>
 </p>
 
-## Fun Fact
+<h2>Fun Fact </h2>
 
 I enjoy solving math problems and improving my logical thinking skills 🧠✨
 
