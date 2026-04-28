@@ -23,7 +23,7 @@
 <h3>Top Languages</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsme-aditya&hide=jupyter%20notebook&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsme-aditya&hide=jupyter%20notebook&theme=tokyonight" />
 
 <h3>Overall Stats</h3>
 
