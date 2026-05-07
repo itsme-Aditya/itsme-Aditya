@@ -27,7 +27,7 @@
 ### Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=itsme-aditya&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=itsme-aditya&layout=compact&hide=jupyter%20notebook&theme=tokyonight" />
 </p>
 
 ### Overall Stats
