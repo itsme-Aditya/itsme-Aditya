@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&center=true&vCenter=true&width=600&duration=1800&pause=600&color=00F7FF&lines=Python+Programmer;C%2B%2B+Learner;DSA+Explorer;Future+Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&center=true&vCenter=true&width=600&duration=1800&pause=600&color=00F7FF&lines=Python+Programmer;Java+Developer;C%2B%2B+Learner;DSA+Explorer;Future+Software+Engineer" />
 </p>
 
 ## About Me
@@ -19,27 +19,7 @@
 ## Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,mysql,git,github,vscode" />
-</p>
-
-## GitHub Stats
-
-### Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=itsme-aditya&layout=compact&hide=jupyter%20notebook&theme=tokyonight" />
-</p>
-
-### Overall Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=itsme-aditya&show_icons=true&theme=tokyonight" />
-</p>
-
-### Streak Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=itsme-aditya&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,mysql,git,github,vscode" />
 </p>
 
 ## Connect with Me
@@ -53,7 +33,3 @@
     <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" />
   </a>
 </p>
-
-## Fun Fact
-
-I enjoy solving math problems and improving my logical thinking skills 🧠✨
